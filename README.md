@@ -1,7 +1,11 @@
-## $\Huge\color{blue}{\text{Course Name  : }}$	$\Huge\color{lime}{\textsf{Software Architecture and Design}}$
-## $\Huge\color{blue}{\text{Section      : }}$	$\Huge\color{lime}{\textsf{SEF21 Morning}}$
-## $\Huge\color{blue}{\text{Project Topic: }}$	$\Huge\color{lime}{\textsf{E-Commerce Website}}$
-## $\Huge\color{red}{\text{[Team Members]}}$
-### $\Huge\color{brown}{\text{BSEF21M055: }}$	$\Huge\color{teal}{\textsf{Muhammad Bilal Shah (Lead Member)}}$
-### $\Huge\color{brown}{\text{BSEF21M046: }}$	$\Huge\color{teal}{\textsf{Muhammad Usman}}$	
-### $\Huge\color{brown}{\text{BSEF20A027: }}$	$\Huge\color{teal}{\textsf{Muhammad Ahmad}}$
+## $\Huge\color{red}{\text{Course Details}}$
+- ### $\Huge\color{darkblue}{\text{Course  : }}$	$\Large\color{black}{\text{Software Architecture and Design}}$
+- ### $\Huge\color{darkblue}{\text{Section : }}$	$\Large\color{black}{\text{BSSE-F21-M}}$
+
+## $\Huge\color{red}{\text{Project Details}}$
+- ### $\Huge\color{darkblue}{\text{Project : }}$	$\Large\color{black}{\text{E-Commerce Website}}$
+
+## $\Huge\color{red}{\text{Team Members}}$
+- ### $\Huge\color{darkblue}{\text{BSEF21M055}}$ $\Huge\color{black}{\text{ - }}$	$\Large\color{black}{\text{Muhammad Bilal Shah}}$ $\normalsize\color{lightgray}{\text{ (Lead Member) }}$
+- ### $\Huge\color{darkblue}{\text{BSEF21M046}}$ $\Huge\color{black}{\text{ - }}$ $\Large\color{black}{\text{Muhammad Usman}}$	
+- ### $\Huge\color{darkblue}{\text{BSEF20A027 }}$ $\Huge\color{black}{\text{ - }}$ $\Large\color{black}{\text{Muhammad Ahmad}}$
